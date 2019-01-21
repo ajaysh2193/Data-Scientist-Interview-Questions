@@ -4,4 +4,8 @@
 - What are the assumptions of Linear and Logistic Regression.
 - How to find important features in dataset?
 - How to find whether features or variables are independent or not?
-- How to detect outliers in dataset?
+- How to detect outliers in dataset
+- Data Cleaning and Data Preprocessing Techniquess
+- Performance Metrices and Cost Functions
+- NLP Pipeline: 
+- Time Series Forecasting
