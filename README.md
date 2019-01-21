@@ -7,5 +7,5 @@
 - How to detect outliers in dataset
 - Data Cleaning and Data Preprocessing Techniquess
 - Performance Metrices and Cost Functions
-- NLP Pipeline: 
+- NLP Pipeline: ![nlp-pipeline](https://user-images.githubusercontent.com/24571705/51478253-f0a05600-1db0-11e9-9e7f-151aca73c5e6.png)
 - Time Series Forecasting
